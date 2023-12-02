@@ -49,23 +49,5 @@ To update your existing mods (files ending in *.so), do the following:
 ## Is Canvas safe?
 - Canvas, in its core form, is entirely [safe](https://www.virustotal.com/gui/file/709d353185400fb5c83e5802440da33f242c29170d04281a24c3fcc18f3368e1), and its source code is publicly [available](https://github.com/artdeell/Canvas-Open-Source). This contributes to the app's transparency, and allows others to view, use, modify, and reproduce its source code. Canvas does permit modifications, from either third-party sources or not, to take complete charge of your active Sky instance, which includes the ability to access your account information and more. Therefore, exercising discretion and considering user reviews prior to usage is strongly recommended. Additionally, certain modifications present features viewed as 'risky', such as spam honk, teleportation by coordinates, auto melt, and more. These can attract attention from others and potentially result in reporting to TGC. It's important to note that any actions related to **cheating**, **hacking** or **exploiting** are **expressly forbidden** by TGC's [EULA/ToS](https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/460-eula-terms-of-service/). Accounts identified as participating in these activities may be subject to **permanent closure**.
 
-## Credits & Resources:
-Telegram - AutoWax EN: https://t.me/skyautowax  
-Telegram - AutoWax RU: https://t.me/ruautowax  
-Telegram - 𝚂𝙺𝚈[𝙊𝙉𝙀]𝙲𝙷𝙰𝚃:
- https://t.me/onemodofficial  
-Telegram - Sky Mod's And Lua: https://t.me/skyModsandlua  
-Telegram - Sky Mods: https://t.me/ThatSkyMod  
-Telegram - Sky Hackers Chat Group: https://t.me/skyhackerschat  
-Telegram - SkyHub2 Community: https://t.me/+Y7derzeLVuMzY2I1  
-
-Discord - Official Sky Server: https://discord.com/invite/thatskygame  
-Discord - Canvascord: https://discord.com/invite/k2JBeWkJ3b  
-Discord - S'Kids.Nest: https://discord.com/invite/fDFU5QWKgh  
-Discord - Spooky House: https://discord.gg/bgAdjQgnxf  
-Discord - SKY[1]MOD server: https://discord.com/invite/HQe3y4aUVb  
-Discord - Hellboy Project: https://discord.com/invite/2AHfEQJggX  
-Discord - Sky CotL Shelter: https://discord.com/invite/MzQFnr3RPZ  
-Discord - NeuraX.Script: https://discord.com/invite/SC5GekNvfW  
-
-MEGA - Large Collection of Sky Music Sheets: https://mega.nz/folder/mvQAQIwb#MmJdqJCZkvTY2Ma7A8YzSg  
+## Credits & Resources
+This section has moved to [Credits & Resources](../README.md#credits--resources)
