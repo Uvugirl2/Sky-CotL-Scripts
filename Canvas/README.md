@@ -67,3 +67,5 @@ Discord - SKY[1]MOD server: https://discord.com/invite/HQe3y4aUVb
 Discord - Hellboy Project: https://discord.com/invite/2AHfEQJggX  
 Discord - Sky CotL Shelter: https://discord.com/invite/MzQFnr3RPZ  
 Discord - NeuraX.Script: https://discord.com/invite/SC5GekNvfW  
+
+MEGA - Large Collection of Sky Music Sheets: https://mega.nz/folder/mvQAQIwb#MmJdqJCZkvTY2Ma7A8YzSg  
