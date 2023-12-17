@@ -10,7 +10,7 @@ This project is organized into the following directories:
 - [Virtual Spaces](./Virtual%20Spaces/) - This directory contains a variety of virtual spaces. Virtual spaces are environments that allow for the execution of modified apps on Android devices without the need for root access.
 
 ## Goal
-The goal is to make cheating accessible for everyone beyond just the hacking scene. We want to open up the world of game modification to a wider audience, empowering players to explore and enjoy games in ways that are not possible in the vanilla experience.
+We aim to democratize game customization, allowing all players to discover and enjoy new ways of experiencing games beyond the standard gameplay.
 
 ## Credits & Resources
 Telegram - AutoWax EN: https://t.me/skyautowax  
