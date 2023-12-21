@@ -14,9 +14,7 @@ We aim to democratize game customization, allowing all players to discover and e
 
 ## Credits & Resources
 Telegram - AutoWax EN: https://t.me/skyautowax  
-Telegram - AutoWax RU: https://t.me/ruautowax  
-Telegram - 𝚂𝙺𝚈[ONE]𝙲𝙷𝙰𝚃:
- https://t.me/onemodofficial  
+Telegram - AutoWax RU: https://t.me/ruautowax    
 Telegram - Sky Mod's And Lua: https://t.me/skyModsandlua  
 Telegram - Sky Mods: https://t.me/ThatSkyMod  
 Telegram - Sky Hackers Chat Group: https://t.me/skyhackerschat  
@@ -26,7 +24,6 @@ Discord - Official Sky Server: https://discord.com/invite/thatskygame
 Discord - Canvascord: https://discord.com/invite/k2JBeWkJ3b  
 Discord - S'Kids.Nest: https://discord.com/invite/fDFU5QWKgh  
 Discord - Spooky House: https://discord.gg/bgAdjQgnxf  
-Discord - SKY[1]MOD server: https://discord.com/invite/HQe3y4aUVb  
 Discord - Hellboy Project: https://discord.com/invite/2AHfEQJggX  
 Discord - Sky CotL Shelter: https://discord.com/invite/MzQFnr3RPZ  
 Discord - NeuraX.Script: https://discord.com/invite/SC5GekNvfW  
