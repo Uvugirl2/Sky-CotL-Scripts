@@ -17,6 +17,7 @@ Telegram - AutoWax EN: https://t.me/skyautowax
 Telegram - AutoWax RU: https://t.me/ruautowax    
 Telegram - Sky Mod's And Lua: https://t.me/skyModsandlua  
 Telegram - Sky Mods: https://t.me/ThatSkyMod  
+Telegram - dukun langit: https://t.me/pdis_publicaccess
 Telegram - Sky Hackers Chat Group: https://t.me/skyhackerschat  
 Telegram - SkyHub2 Community: https://t.me/+Y7derzeLVuMzY2I1  
 
